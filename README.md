@@ -1,4 +1,4 @@
-- 👋 Hi, I’m  Vishnu Das (@vishnudasTW)
+- 👋 Hi, I’m  Vishnu Das (@vishnudasTW), presently working as a Senior Technical Writer with Aptean Software India PLT. 
 - 👀 I’m interested in Technical Writing and related discussions 
 - 🌱 I’m currently learning new trends in technical writing 
 - 💞️ I’m looking to collaborate on ...
