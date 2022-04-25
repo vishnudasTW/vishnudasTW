@@ -1,8 +1,8 @@
 - 👋 Hi, I’m  Vishnu Das (@vishnudasTW), presently working as a Senior Technical Writer with Aptean Software India PLT. 
-- 👀 I’m interested in Technical Writing and related discussions 
-- 🌱 I’m currently learning new trends in technical writing 
+- 👀 I’m interested in Technology, Softwares and Scinetific Advances.
+- 🌱 I’m currently learning new trends in technical writing.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me : mailmevishnudas@gmail.com
 
 <!---
 vishnudasTW/vishnudasTW is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
