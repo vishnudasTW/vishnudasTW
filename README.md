@@ -1,5 +1,5 @@
 - 👋 Hi, I’m  Vishnu Das (@vishnudasTW), presently working as a Senior Technical Writer with Aptean Software India PLT. 
-- 👀 I’m interested in Technology, Softwares and Scinetific Advances.
+- 👀 I’m interested in Technology, Softwares and Scientific Advances.
 - 🌱 I’m currently learning new trends in technical writing.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : mailmevishnudas@gmail.com
