@@ -1,4 +1,4 @@
-- 👋 Hi, I’m  Vishnu Das (@vishnudasTW), presently working as a Senior Technical Writer with Aptean Software India PLT. 
+- 👋 Hi, I’m  Vishnu Das (@vishnudasTW). I am a Software Tech. Documentation Specialist. I translate Machines for Humans! 
 - 👀 I’m interested in Technology, Softwares and Scientific Advances.
 - 🌱 I’m currently learning new trends in technical writing.
 - 💞️ I’m looking to collaborate on ...
