@@ -8,7 +8,7 @@
 
 
 
-Access WIKI: Repositories > select the Repository name > WIKI
+Access WIKI: **Repositories** > select the Repository name > **WIKI**
 
 <!---
 vishnudasTW/vishnudasTW is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
