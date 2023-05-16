@@ -6,9 +6,9 @@
 - 📫 Checkout my book and author page @  https://www.amazon.in/Vishnu-Das/e/B0B7JWD6J7/ref=aufs_dp_fta_dsk
 - 🎓 Certifications : SFPC™, RWPC™, PMEC™, SFC™, SSYB™
 
+Check out my Technical **Tech Writing Showcase** repository to see the documents I have produced.
 
 
-Access WIKI: **Repositories** > select the Repository name > **WIKI**
 
 <!---
 vishnudasTW/vishnudasTW is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
