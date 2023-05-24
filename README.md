@@ -17,6 +17,7 @@ Check out my [**Tech Writing Showcase**](https://github.com/vishnudasTW/Tech-Wri
 <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
 </p>
 
+#### Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/{vishnudasTW}/count.svg)
 
 <!---
