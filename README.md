@@ -6,7 +6,7 @@
 - 📫 Checkout my book and author page @  https://www.amazon.in/Vishnu-Das/e/B0B7JWD6J7/ref=aufs_dp_fta_dsk
 - 🎓 Certifications : SFPC™, RWPC™, PMEC™, SFC™, SSYB™
 
-Check out my [**Tech Writing Showcase**](https://github.com/vishnudasTW/Tech-Writing-Showcase-) repository to see the documents I have produced.
+Visit my [**Tech Writing Showcase**](https://github.com/vishnudasTW/Tech-Writing-Showcase-) repository to see the documents I have produced.
 #### Technologies and Tools
 
 <p>
