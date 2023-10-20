@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : mailmevishnudas@gmail.com
 - 📫 Checkout my book and author page @  https://www.amazon.in/Vishnu-Das/e/B0B7JWD6J7/ref=aufs_dp_fta_dsk
-- 🎓 Certifications : SFPC™, RWPC™, PMEC™, SFC™, SSYB™
+- 🎓 Certifications : SFPC™, RWPC™, PMEC™, SFC™, SSYB™ _[*Link*](https://github.com/vishnudasTW/certifications/wiki)
 
 Visit my [**Tech Writing Showcase**](https://github.com/vishnudasTW/Tech-Writing-Showcase-) repository to see the documents I have produced.
 #### Technologies and Tools
