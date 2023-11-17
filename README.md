@@ -7,7 +7,7 @@
 
 
 
-- 👋 Hi, I am a Sr, Information Developer / Doc Specialist. I translate Machines for Humans! 
+- 👋 Hi, I am a Sr. Information Developer / Doc Specialist. I translate Machines for Humans! 
 - 👀 I’m interested in Technology, Software and Scientific Advances.
 - 🌱 I’m currently learning new trends in technical writing.
 - 💞️ I’m looking to collaborate on ...
