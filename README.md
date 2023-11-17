@@ -37,3 +37,5 @@ Visit my [**Tech Writing Showcase**](https://github.com/vishnudasTW/Tech-Writing
 vishnudasTW/vishnudasTW is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+Thanks for checking out my profile 🙂.
