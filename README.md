@@ -31,8 +31,7 @@ Visit my [**Tech Writing Showcase**](https://github.com/vishnudasTW/Tech-Writing
 <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/>
 </p>
 
-![image](https://github.com/vishnudasTW/vishnudasTW/assets/92569350/24d2da6b-8d06-4127-8c91-f70aca274e61)
-
+![image](https://github.com/vishnudasTW/vishnudasTW/assets/92569350/b9e59500-70ff-4096-8ddd-861c159a5d6b)
 
 #### Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/{vishnudasTW}/count.svg)
