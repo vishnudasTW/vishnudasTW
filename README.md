@@ -18,6 +18,12 @@
 Visit my [**Tech Writing Showcase**](https://github.com/vishnudasTW/Tech-Writing-Showcase-) repository to see the documents I have produced.
 
 You can read my articles published on Medium. Check out my profile - [Vishnu Das | Medium](https://medium.com/@vishnudasambady)
+
+
+![image](https://github.com/user-attachments/assets/8b5d72de-bd3a-4eff-96be-bbd041fcdf26)
+
+
+
 #### Technologies and Tools
 
 <p>
